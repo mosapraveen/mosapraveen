@@ -2,7 +2,7 @@
 
 🎓 *CSE Student | Future Software Engineer | Cybersecurity Enthusiast*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mosapraveen) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mosa-praveen-83a444307/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/mosapraveen) 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:praveenmosa903@gmail.com)  
 
@@ -31,9 +31,10 @@
 ---
 
 ## 📫 Let’s Connect
-- 📧 **Email**: praveenmosa903@gmail.com  
-- 📱 **Phone**: +91 8688369477  
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/mosapraveen)  
-- 💻 [**GitHub**](https://github.com/mosapraveen)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:praveenmosa903@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mosa-praveen-83a444307/)  
+
+---
 
 ✨ *“Learning, building, and innovating every day!”* ✨
